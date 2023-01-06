@@ -50,11 +50,7 @@ To run this project, you will need to add the following environment variables to
 
 
 
-## Screenshots: 
 
-!["Web dashboard"](https://github.com/Fanny-Mlmrtl/Bloc_5/blob/main/Streamlit.png)
-!["API"](https://github.com/Fanny-Mlmrtl/Bloc_5/blob/main/API.png)
-!["API"](https://github.com/Fanny-Mlmrtl/Bloc_5/blob/main/API_bis.png)
 ## Author
 
 [Fanny Malmartel ](https://github.com/Fanny-Mlmrtl)
